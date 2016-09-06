@@ -19,6 +19,15 @@ You can simply clone the repository and open the visual studio project file.
 If you do not want to use Visual Studio there only are 2 files that you have to care about. The MachineLearning.h which is the header file
 for the classes and the MachineLearning.cpp which contains the functions.
 
+Also I have setup an example at the main.cpp file so that you can experiment.
+
+###### IMPORTANT
+Classes that aren't yet been finished:
+
+-> NeuralNetworkMLP class
+
+###### Other
+
 I Hope that you find this repository helpful. Make sure to fork the repository is you like it.
 
 About me:
