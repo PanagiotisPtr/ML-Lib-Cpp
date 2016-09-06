@@ -28,7 +28,7 @@ Classes that aren't yet been finished:
 
 ###### Other
 
-I Hope that you find this repository helpful. Make sure to fork the repository is you like it.
+I Hope that you find this repository helpful. Make sure to star / fork the repository is you like it.
 
 About me:
 I am a high school student from Greece.
