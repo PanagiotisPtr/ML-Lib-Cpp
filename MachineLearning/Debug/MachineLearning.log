@@ -1,0 +1,53 @@
+﻿  main.cpp
+c:\users\panos\desktop\ml_cpp\machinelearning\machinelearning\main.cpp(22): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\panos\desktop\ml_cpp\machinelearning\machinelearning\main.cpp(23): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\panos\desktop\ml_cpp\machinelearning\machinelearning\main.cpp(24): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\panos\desktop\ml_cpp\machinelearning\machinelearning\main.cpp(28): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\panos\desktop\ml_cpp\machinelearning\machinelearning\main.cpp(34): warning C4305: 'argument': truncation from 'double' to 'float'
+  MachineLearning.cpp
+c:\users\panos\desktop\ml_cpp\machinelearning\machinelearning\machinelearning.cpp(25): warning C4018: '<': signed/unsigned mismatch
+c:\users\panos\desktop\ml_cpp\machinelearning\machinelearning\machinelearning.cpp(32): warning C4018: '<': signed/unsigned mismatch
+c:\users\panos\desktop\ml_cpp\machinelearning\machinelearning\machinelearning.cpp(35): warning C4018: '<': signed/unsigned mismatch
+c:\users\panos\desktop\ml_cpp\machinelearning\machinelearning\machinelearning.cpp(39): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+c:\users\panos\desktop\ml_cpp\machinelearning\machinelearning\machinelearning.cpp(47): warning C4018: '<': signed/unsigned mismatch
+c:\users\panos\desktop\ml_cpp\machinelearning\machinelearning\machinelearning.cpp(69): warning C4018: '<': signed/unsigned mismatch
+c:\users\panos\desktop\ml_cpp\machinelearning\machinelearning\machinelearning.cpp(82): warning C4018: '<': signed/unsigned mismatch
+c:\users\panos\desktop\ml_cpp\machinelearning\machinelearning\machinelearning.cpp(91): warning C4018: '<': signed/unsigned mismatch
+c:\users\panos\desktop\ml_cpp\machinelearning\machinelearning\machinelearning.cpp(108): warning C4018: '<': signed/unsigned mismatch
+c:\users\panos\desktop\ml_cpp\machinelearning\machinelearning\machinelearning.cpp(115): warning C4018: '<': signed/unsigned mismatch
+c:\users\panos\desktop\ml_cpp\machinelearning\machinelearning\machinelearning.cpp(118): warning C4018: '<': signed/unsigned mismatch
+c:\users\panos\desktop\ml_cpp\machinelearning\machinelearning\machinelearning.cpp(122): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+c:\users\panos\desktop\ml_cpp\machinelearning\machinelearning\machinelearning.cpp(130): warning C4018: '<': signed/unsigned mismatch
+c:\users\panos\desktop\ml_cpp\machinelearning\machinelearning\machinelearning.cpp(147): warning C4018: '<': signed/unsigned mismatch
+c:\users\panos\desktop\ml_cpp\machinelearning\machinelearning\machinelearning.cpp(160): warning C4018: '<': signed/unsigned mismatch
+c:\users\panos\desktop\ml_cpp\machinelearning\machinelearning\machinelearning.cpp(169): warning C4018: '<': signed/unsigned mismatch
+c:\users\panos\desktop\ml_cpp\machinelearning\machinelearning\machinelearning.cpp(191): warning C4018: '<': signed/unsigned mismatch
+c:\users\panos\desktop\ml_cpp\machinelearning\machinelearning\machinelearning.cpp(198): warning C4018: '<': signed/unsigned mismatch
+c:\users\panos\desktop\ml_cpp\machinelearning\machinelearning\machinelearning.cpp(201): warning C4018: '<': signed/unsigned mismatch
+c:\users\panos\desktop\ml_cpp\machinelearning\machinelearning\machinelearning.cpp(205): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+c:\users\panos\desktop\ml_cpp\machinelearning\machinelearning\machinelearning.cpp(213): warning C4018: '<': signed/unsigned mismatch
+c:\users\panos\desktop\ml_cpp\machinelearning\machinelearning\machinelearning.cpp(230): warning C4018: '<': signed/unsigned mismatch
+c:\users\panos\desktop\ml_cpp\machinelearning\machinelearning\machinelearning.cpp(243): warning C4018: '<': signed/unsigned mismatch
+c:\users\panos\desktop\ml_cpp\machinelearning\machinelearning\machinelearning.cpp(252): warning C4018: '<': signed/unsigned mismatch
+c:\users\panos\desktop\ml_cpp\machinelearning\machinelearning\machinelearning.cpp(285): warning C4018: '<': signed/unsigned mismatch
+c:\users\panos\desktop\ml_cpp\machinelearning\machinelearning\machinelearning.cpp(295): warning C4018: '<': signed/unsigned mismatch
+c:\users\panos\desktop\ml_cpp\machinelearning\machinelearning\machinelearning.cpp(301): warning C4018: '<': signed/unsigned mismatch
+c:\users\panos\desktop\ml_cpp\machinelearning\machinelearning\machinelearning.cpp(304): warning C4018: '<': signed/unsigned mismatch
+c:\users\panos\desktop\ml_cpp\machinelearning\machinelearning\machinelearning.cpp(324): warning C4018: '<': signed/unsigned mismatch
+c:\users\panos\desktop\ml_cpp\machinelearning\machinelearning\machinelearning.cpp(326): warning C4018: '<': signed/unsigned mismatch
+c:\users\panos\desktop\ml_cpp\machinelearning\machinelearning\machinelearning.cpp(335): warning C4018: '<': signed/unsigned mismatch
+c:\users\panos\desktop\ml_cpp\machinelearning\machinelearning\machinelearning.cpp(348): warning C4018: '<': signed/unsigned mismatch
+c:\users\panos\desktop\ml_cpp\machinelearning\machinelearning\machinelearning.cpp(350): warning C4018: '<': signed/unsigned mismatch
+c:\users\panos\desktop\ml_cpp\machinelearning\machinelearning\machinelearning.cpp(355): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+c:\users\panos\desktop\ml_cpp\machinelearning\machinelearning\machinelearning.cpp(361): warning C4018: '<': signed/unsigned mismatch
+c:\users\panos\desktop\ml_cpp\machinelearning\machinelearning\machinelearning.cpp(363): warning C4018: '<': signed/unsigned mismatch
+c:\users\panos\desktop\ml_cpp\machinelearning\machinelearning\machinelearning.cpp(368): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+c:\users\panos\desktop\ml_cpp\machinelearning\machinelearning\machinelearning.cpp(376): warning C4018: '<': signed/unsigned mismatch
+c:\users\panos\desktop\ml_cpp\machinelearning\machinelearning\machinelearning.cpp(398): warning C4018: '<': signed/unsigned mismatch
+c:\users\panos\desktop\ml_cpp\machinelearning\machinelearning\machinelearning.cpp(417): warning C4018: '<': signed/unsigned mismatch
+c:\users\panos\desktop\ml_cpp\machinelearning\machinelearning\machinelearning.cpp(428): warning C4018: '<': signed/unsigned mismatch
+c:\users\panos\desktop\ml_cpp\machinelearning\machinelearning\machinelearning.cpp(430): warning C4018: '<': signed/unsigned mismatch
+c:\users\panos\desktop\ml_cpp\machinelearning\machinelearning\machinelearning.cpp(440): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  MachineLearning.vcxproj -> C:\Users\panos\Desktop\ML_cpp\MachineLearning\Debug\MachineLearning.exe
+  MachineLearning.vcxproj -> C:\Users\panos\Desktop\ML_cpp\MachineLearning\Debug\MachineLearning.pdb (Full PDB)

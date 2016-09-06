@@ -1,0 +1,80 @@
+Epoch: 1
+Errors: 25 Out of 100
+Weights: 
+0
+0
+0
+0
+0
+Epoch: 2
+Errors: 25 Out of 100
+Weights: 
+0
+0
+0
+0
+0
+Epoch: 3
+Errors: 25 Out of 100
+Weights: 
+0
+0
+0
+0
+0
+Epoch: 4
+Errors: 25 Out of 100
+Weights: 
+0
+0
+0
+0
+0
+Epoch: 5
+Errors: 25 Out of 100
+Weights: 
+0
+0
+0
+0
+0
+Epoch: 6
+Errors: 25 Out of 100
+Weights: 
+0
+0
+0
+0
+0
+Epoch: 7
+Errors: 25 Out of 100
+Weights: 
+0
+0
+0
+0
+0
+Epoch: 8
+Errors: 25 Out of 100
+Weights: 
+0
+0
+0
+0
+0
+Epoch: 9
+Errors: 25 Out of 100
+Weights: 
+0
+0
+0
+0
+0
+Epoch: 10
+Errors: 25 Out of 100
+Weights: 
+0
+0
+0
+0
+0
